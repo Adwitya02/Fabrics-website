@@ -12,7 +12,7 @@ A clean, mobile-friendly and customizable website for Sheela Fabrics, built usin
 
 ##  Folder Structure
 Fabrics-website/
-│
+|
 ├── index.html # Optional redirect to about.html (home)
 ├── about.html # About Us page
 ├── samples.html # Fabric Samples Gallery
